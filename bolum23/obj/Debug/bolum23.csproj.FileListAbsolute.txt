@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bolum23\bolum23\bin\Debug\bolum23.exe.config
+C:\Users\User\source\repos\bolum23\bolum23\bin\Debug\bolum23.exe
+C:\Users\User\source\repos\bolum23\bolum23\bin\Debug\bolum23.pdb
+C:\Users\User\source\repos\bolum23\bolum23\obj\Debug\bolum23.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bolum23\bolum23\obj\Debug\bolum23.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bolum23\bolum23\obj\Debug\bolum23.Form1.resources
+C:\Users\User\source\repos\bolum23\bolum23\obj\Debug\bolum23.Properties.Resources.resources
+C:\Users\User\source\repos\bolum23\bolum23\obj\Debug\bolum23.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bolum23\bolum23\obj\Debug\bolum23.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bolum23\bolum23\obj\Debug\bolum23.exe
+C:\Users\User\source\repos\bolum23\bolum23\obj\Debug\bolum23.pdb
